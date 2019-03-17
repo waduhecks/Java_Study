@@ -1,3 +1,5 @@
+package zhu;
+
 public class ConstructionBank extends Bank {
 
     double year;
